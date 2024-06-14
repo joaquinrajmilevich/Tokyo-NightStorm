@@ -66,9 +66,9 @@
 
   /* Background Color */
   --background-primary: #24283b;
-  --background-secondary: #3b4261;
-  --background-secondary-alt: #292e42;
-  --background-tertiary: #292e42;
+  --background-secondary: #292e42;
+  --background-secondary-alt: #3b4261;
+  --background-tertiary: #2f354e;
   --background-tertiary-alt: var(--background-secondary-alt);
   --background-accent: #434461;
   --background-floating: #292e42;
