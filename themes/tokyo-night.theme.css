@@ -65,17 +65,17 @@
   --interactive-muted: #55576b;
 
   /* Background Color */
-  --background-primary: #1a1b26;
-  --background-secondary: #171722;
-  --background-secondary-alt: #13131a;
-  --background-tertiary: #16161e;
+  --background-primary: #24283b;
+  --background-secondary: #3b4261;
+  --background-secondary-alt: #292e42;
+  --background-tertiary: #363c58;
   --background-tertiary-alt: var(--background-secondary-alt);
   --background-accent: #434461;
-  --background-floating: #161620;
+  --background-floating: #292e42;
   --background-modifier-hover: #212331c0;
   --background-modifier-active: #282a3680;
   --background-modifier-selected: #24263171;
-  --background-modifier-accent: #1e1e29;
+  --background-modifier-accent: #24283b;
   --background-mentioned: #252836;
   --border-mentioned: #474c64;
   --background-mentioned-hover: #2f3344;
