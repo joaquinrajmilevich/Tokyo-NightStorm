@@ -67,11 +67,11 @@
   /* Background Color */
   --background-primary: #24283b;
   --background-secondary: #292e42;
-  --background-secondary-alt: #292e42;
-  --background-tertiary: #292e42;
+  --background-secondary-alt: #202535;
+  --background-tertiary: #3b4261;
   --background-tertiary-alt: var(--background-secondary-alt);
-  --background-accent: #000000;
-  --background-floating: #292e42;
+  --background-accent: #292e42;
+  --background-floating: #414868;
   --background-modifier-hover: #212331c0;
   --background-modifier-active: #282a3680;
   --background-modifier-selected: #24263171;
